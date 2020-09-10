@@ -123,7 +123,7 @@
         {
             "slug": "02.2-maping-array-of-objects-to-li",
             "title": "02.2-maping-array-of-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-maping-array-of-objects-to-li",
             "translations": [
                 "es",
