@@ -134,7 +134,7 @@
         {
             "slug": "03-render-with-functions",
             "title": "03-render-with-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/03-render-with-functions",
             "translations": [
                 "es",
